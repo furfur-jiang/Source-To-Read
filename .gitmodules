@@ -1,0 +1,3 @@
+[submodule "validate-npm-package-name"]
+  path = validate-npm-package-name
+  url = https://github.com/furfur-jiang/validate-npm-package-name.git
