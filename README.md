@@ -2,4 +2,5 @@
 
 
 
-1. validate-npm-package-name
+- [x] validate-npm-package-name
+- [x] axios 工具函数
