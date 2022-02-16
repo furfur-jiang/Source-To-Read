@@ -4,6 +4,6 @@
 [submodule "axios"]
   path = axios
   url = https://github.com/furfur-jiang/axios.git
-[submodule "vue3-core-read-node"]
-  path = vue3-core-read-node
+[submodule "vue3"]
+  path = vue3
   url = https://github.com/furfur-jiang/vue3-core-read-node.git
