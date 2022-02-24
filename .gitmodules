@@ -7,3 +7,9 @@
 [submodule "vue3"]
   path = vue3
   url = https://github.com/furfur-jiang/vue3-core-read-node.git
+[submodule "vue2"]
+  path = vue2
+  url = https://github.com/furfur-jiang/vue2-read-note.git
+[submodule "remote-git-tags-analysis"]
+  path = remote-git-tags-analysis
+  url = https://github.com/furfur-jiang/remote-git-tags-analysis.git
